@@ -1,150 +1,95 @@
-<!--
-<h2 align="center">
-  Welcome to Ram_mpr World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Yuri-Neko"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Tachiba+Rama+Kyouka+  ;I+Am+15+Years+Old;I+live+In+Indonesian+  ;Don't+bully+me+≧▽≦" alt="Neko">
+<h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
+<p align="center">
+  <p align="center">
+    <a href="https://yuri-neko.github.io/">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+YuriNeko+🤗"
+            alt="YuriNeko"
+        />
+    </a>
 </p>
- -->
+<a href="https://github.com/Yuri-Neko"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
+</p>
+  <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Kyouka%20Hashiba&description=Hai,%20Aku%20Kyouka%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobiku%20Adalah%20Nonton%20Anime%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Aku%20Sangat%20suka%20Menonton%20Anime:)&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+</p>
+ <p align="center">
 
-<a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="right" alt="Visits"></a>
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Ramm_mpr</a></b>
-        </samp>
-</h3>
+ ## ```Profile```
+ 
 <p align="center">
-        <!-- Organisation  -->
-        <samp>
-          <a href="https://www.google.com/search?q=Ramm+mpr">「 Google Me 」</a>
-                <br>
-                「 I am a full stack web appplication developer from <b>Indonesia</b> 」
-                <br>
-                <br>
-          <br><br>
-        </samp>
-        <!-- Programming Languages -->
-        <!-- Code logo -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
-        </a>
-        <!-- HTML -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="TypeScript"
-                        src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
-        </a>
-        <!-- CSS  -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
-        </a>
-        <!-- JavaScript -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Next"
-                        src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        </a>
-        <!-- Python -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="NodeJS"
-                        src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A">
-        </a>
-        <!-- C++ -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Express"
-                        src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="MongoDB"
-                        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-        </a>
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="GraphQl"
-                        src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="SASS"
-                        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-        </a>
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Tailwind"
-                        src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000">
-        </a>
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Vs Code"
-                        src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white">
-        </a>
-           <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Git"
-                        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        </a>
+
+- 👼 My name is °Rama••Kyouka°
+
+- 🗣️ I am 15 years old 
+
+- 🔭 I am Not programmer
+ 
+- 😎 I Wibu ( ✧Д✧) YES!!
 </p>
 
-<!-- Details Section-->
-<details align="center">
-    <summary> <h1>&#9776; About</h1></summary>
-    <p align="center">
-        <p>Find me on</p>
+------
+ ### ```Donate```  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
+<a href="https://saweria.co/YuriNeko"> ```Saweria```
+<a href="https://trakteer.id/Yuri-Neko"/> ```Trakteer```
+## ```FOLLOW ALL SOSIALMEDIA ME```
+<p align="center">
+<a href="https://instagram.com/admin_kyouka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/6283825121214"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" /><br>
+<a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
+<a href="https://github.com/Yuri-Neko"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Yuri-Neko" /></a>
+
+### Github Stats 
+
+<a href="https://github.com/rammmpr"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="rammmpr" /></p>
+
+<a href="https://github.com/rammmpr">![github card](https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical)
+
+<a href="https://github.com/rammmpr">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai)
   
-  <a href="https://alsiam.com" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" /></a><a href="https://linkedin.com/in/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/></a><a href="https://dev.to/alsiam" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" /></a> <a href="https://twitter.com/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://instagram.com/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /></a> 
-    <a href="https://facebook.com/alsiam.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  /></a> 
-    </p>
-    <br />
-    <!-- Programmer Gif Image -->
-<img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
+  ### ⚙ &nbsp;GitHub Analytics
 
-### About me
+---
 
-✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp;Love to writing code and learning new features<br/><br/>
-📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
-💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+<p align="center">
+  <a href="https://github.com/rammmpr"><img src="https://github-readme-stats.vercel.app/api?username=xfar05&theme=tokyonight&show_icons=true" /></a>
+</p>
 
-<p><br></p>
-    
+<p align="center">
+  <a href="https://github.com/rammmpr"><img src="https://github-readme-streak-stats.herokuapp.com?user=xfar05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/rammmpr"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xfar05&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/rammmpr"><img src="https://github-profile-trophy.vercel.app/?username=xfar05&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
+ 
+ ##### Some of Technology that i have worked with
+
+![Railway](https://img.shields.io/badge/-Railway-222222?style=flat&logo=railway&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
+
+![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Yuri-Neko.Yuri-Neko??style=for-the-badge&logo=appveyor"></a><br>
+
+![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
+
+<details open>
+<summary><b>←Total Pengunjung Profile ↓</b></summary>
+<br>
+<a href="https://instagram.com/admin_kyouka "><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34"/></a>
 </details>
 
-<!-- My top Open Sources Projects -->
-<!-- _________________________________________________________________________________________________ -->
-
-## 📘 My Top Open Source Projects -
-
-<br/>
-<p align="center">
-<a href="https://github.com/alsiam/alsiam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alsiam/alfolio">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/alsiam/problem-solving">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alsiam/alsiam.github.io">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-<p></p>
-<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/VpnSuR?referralCode=gzVx5l)
