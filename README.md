@@ -32,23 +32,23 @@
 
 ------
  ### ```Donate```  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
-<a href="https://saweria.co/YuriNeko"> ```Saweria```
-<a href="https://trakteer.id/Yuri-Neko"/> ```Trakteer```
+<a href="https://saweria.co/rammmpr"> ```Saweria```
+<a href="https://trakteer.id/ramm_mpr/tip?quantity=1"/> ```Trakteer```
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
-<a href="https://instagram.com/admin_kyouka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6283825121214"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://instagram.com/ramm_mpr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/62895410419518"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" /><br>
 <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
-<a href="https://github.com/Yuri-Neko"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Yuri-Neko" /></a>
+<a href="https://github.com/rammmpr"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/rammmpr /></a>
 
 ### Github Stats 
 
-<a href="https://github.com/rammmpr"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="rammmpr" /></p>
+<a href="https://github.com/rammmpr"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rammmpr&show_icons=true&locale=en&layout=compact" alt="rammmpr" /></p>
 
-<a href="https://github.com/rammmpr">![github card](https://github-readme-stats.vercel.app/api?username=Yuri-Neko&show_icons=true&theme=radical)
+<a href="https://github.com/rammmpr">![github card](https://github-readme-stats.vercel.app/api?username=rammmpr&show_icons=true&theme=radical)
 
-<a href="https://github.com/rammmpr">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuri-Neko&theme=monokai)
+<a href="https://github.com/rammmpr">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rammmpr&theme=monokai)
   
   ### ⚙ &nbsp;GitHub Analytics
 
