@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/rammmpr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Rama+Kyouka+  ;I+Am+17+Years+Old;I+live+In+Indonesian+  ;Don't+bully+me+≧▽≦" alt="Neko">
+  <a href="https://github.com/rammmpr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Rama+Kanaeru+  ;I+Am+17+Years+Old;I+live+In+Indonesian+  ;Don't+bully+me+≧▽≦" alt="Neko">
 <h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
 <p align="center">
   <p align="center">
-    <a href="https://yuri-neko.github.io/">
+    <a href="https://rammmpr.github.io/">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Rammmpr+🤗"
             alt="Rammmpr"
@@ -38,9 +38,9 @@
 <p align="center">
 <a href="https://instagram.com/ramm_mpr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/62895410419518"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/" /><br>
-<a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
-<a href="https://github.com/rammmpr"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/rammmpr /></a>
+<a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Ramm-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/" /><br>
+<a href="https://tiktok.com/@ruuri"><img src="https://img.shields.io/badge/Tiktok Ramm-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@ruuri" /></a>
+<a href="https://github.com/rammmpr"><img src="https://img.shields.io/badge/Github Ramm-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/rammmpr /></a>
 
 ### Github Stats 
 
