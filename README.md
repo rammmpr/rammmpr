@@ -23,7 +23,7 @@
 
 - 👼 My name is °Rama••Kyouka°
 
-- 🗣️ I am 15 years old 
+- 🗣️ I am 17 years old 
 
 - 🔭 I am Not programmer
  
@@ -38,7 +38,7 @@
 <p align="center">
 <a href="https://instagram.com/ramm_mpr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/62895410419518"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" /><br>
+<a href="https://youtube.com/channel/UColzqD-h69GCGWitfF8UJhw"><img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/" /><br>
 <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok Neko-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@hiro_0163" /></a>
 <a href="https://github.com/rammmpr"><img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/rammmpr /></a>
 
@@ -79,7 +79,7 @@
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
-<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Yuri-Neko.Yuri-Neko??style=for-the-badge&logo=appveyor"></a><br>
+<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=rammmpr.rammmpr??style=for-the-badge&logo=appveyor"></a><br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
@@ -89,7 +89,7 @@
 <details open>
 <summary><b>←Total Pengunjung Profile ↓</b></summary>
 <br>
-<a href="https://instagram.com/admin_kyouka "><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34"/></a>
+<a href="https://instagram.com/ramm_mpr "><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34"/></a>
 </details>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/VpnSuR?referralCode=gzVx5l)
