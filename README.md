@@ -55,19 +55,19 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/rammmpr"><img src="https://github-readme-stats.vercel.app/api?username=xfar05&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/rammmpr"><img src="https://github-readme-stats.vercel.app/api?username=rammmpr&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rammmpr"><img src="https://github-readme-streak-stats.herokuapp.com?user=xfar05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://github-readme-streak-stats.herokuapp.com?user=rammmpr&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/rammmpr"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xfar05&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/rammmpr"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rammmpr&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/rammmpr"><img src="https://github-profile-trophy.vercel.app/?username=xfar05&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://github-profile-trophy.vercel.app/?username=rammmpr&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
  
  ##### Some of Technology that i have worked with
