@@ -89,7 +89,7 @@
 <details open>
 <summary><b>←Total Pengunjung Profile ↓</b></summary>
 <br>
-<a href="https://instagram.com/ramm_mpr "><img alt="Cute Count" src="https://count.getloli.com/get/@DipeshxD?theme=rule34"/></a>
+<a href="https://instagram.com/ramm_mpr "><img alt="Cute Count" src="https://count.getloli.com/get/@rammmpr?theme=rule34"/></a>
 </details>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/VpnSuR?referralCode=gzVx5l)
