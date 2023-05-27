@@ -12,8 +12,8 @@
 </p>
 <a href="https://github.com/rammmpr"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Ramm%20Yuu&description=Hai,%20Aku%20Ryuu%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobiku%20Adalah%20Nonton%20Anime%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
-  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Aku%20Sangat%20suka%20Menonton%20Anime:)&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Ramm%20Yuu&description=Hai,%20Gua%20Rama%20dan%20Gua%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobi%20Gua%20Adalah%20Nonton%20Anime%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Gua%20Sangat%20suka%20Menonton%20Anime:)&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
  <p align="center">
 
@@ -21,9 +21,9 @@
  
 <p align="center">
 
-- 👼 My name is °Rama••Kyouka°
+- 👼 My name is Rama
 
-- 🗣️ I am 17 years old 
+- 🗣️ I am 18 years old 
 
 - 🔭 I am Not programmer
  
