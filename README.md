@@ -82,8 +82,6 @@
 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=rammmpr.rammmpr??style=for-the-badge&logo=appveyor"></a><br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
 
 <details open>
