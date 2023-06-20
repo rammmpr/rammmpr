@@ -12,7 +12,7 @@
 </p>
 <a href="https://github.com/rammmpr"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Ramm%20Yuu&description=Hai,%20Gua%20Rama%20dan%20Gua%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobi%20Gua%20Adalah%20Berkutat%20Dengan%20Error%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Ramm%20Kanaeru&description=Hai,%20Gua%20Rama%20dan%20Gua%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobi%20Gua%20Adalah%20Berkutat%20Dengan%20Error%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Gua%20Sangat%20Menyukai%20Pemrograman:)&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
  <p align="center">
