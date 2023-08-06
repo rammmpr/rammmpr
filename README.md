@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/rammmpr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=Benim+Adım+Rama+Kanaeru+  ;Ben+18+Years+Old; Ben+Endonezyalıyım+  alt="Neko">
+  <a href="https://github.com/rammmpr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=Benim+Adım+Rama+Kanaeru+  ;Ben+18+Years+Old; Ben+Endonezyalıyım;  alt="Neko">
 <h1 align="center">Hoş Geldiniz<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
 <p align="center">
   <p align="center">
