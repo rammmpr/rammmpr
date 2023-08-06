@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://github.com/rammmpr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=Benim+Adım+Rama+Kanaeru+  ;Ben+18+Years+Old; Ben+Endonezyalıyım+  alt="Neko">
-<h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
+<h1 align="center">Hoş Geldiniz<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
 <p align="center">
   <p align="center">
     <a href="https://rammmpr.github.io/">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Rammmpr+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Hoş+Geldiniz+Içinde+Github+Rammmpr"
             alt="Rammmpr"
         />
     </a>
 </p>
 <a href="https://github.com/rammmpr"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Ramm%20Kanaeru&description=Hii,%20My%20Name%20Is%20Rama%20dan%20I%20Hanya%20seorang%20manusia%20biasa.%20Hobi%20I%20Adalah%20membaca%20Buku%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramm_mpr&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Pasha%20Rama&description=Hii,%20My%20Name%20Is%20Rama%20dan%20I%20Hanya%20seorang%20manusia%20biasa.%20Hobi%20I%20Adalah%20membaca%20Buku%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramm_mpr&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Ben%20cok%20program%20seviyorum&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
  <p align="center">
