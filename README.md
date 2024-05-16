@@ -15,7 +15,10 @@
   <a href="https://github.com/rammmpr">
   <img src="https://cardivo.vercel.app/api?name=Pasha%20Rama&description=Haii,%20My%20Name%20is%20Rama%20and%20I'm%20Just%20an%20Ordinary%20Human.%20My%20Hobby%20is%20reading%20Books%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramm_mpr&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" />
 </a>
-  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Saya%20suka%20mengotak-atik%20program&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+ <a href="https://github.com/rammmpr">
+  <img src="https://cardivo.vercel.app/api?name=I%20like%20to%20tinker%20with%20programs&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" />
+</a>
+
 </p>
  <p align="center">
 
