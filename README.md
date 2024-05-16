@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/rammmpr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=Benim+Adım+Rama+Kanaeru+  ;Ben+18+Years+Old; Ben+Endonezyalıyım;  alt="Neko">
+  <a href="https://github.com/rammmpr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Is+Pasha+Rama+  ;I'am+19+Years+Old; I'm+From+Indonesian;  alt="Neko">
 <h1 align="center">Welcome<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
 <p align="center">
   <p align="center">
@@ -13,7 +13,7 @@
 <a href="https://github.com/rammmpr"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
   <a href="https://github.com/rammmpr">
-  <img src="https://cardivo.vercel.app/api?name=Pasha%20Rama&description=Haii,%20My%20Name%20is%20Rama%20and%20I'm%20Just%20an%20Ordinary%20Human.%20My%20Hobby%20is%20reading%20Books%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramm_mpr&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" />
+  <img src="https://cardivo.vercel.app/api?name=Pasha%20Rama&description=Hii,%20My%20Name%20is%20Rama%20and%20I'm%20Just%20an%20Ordinary%20Human.%20My%20Hobby%20is%20reading%20Books%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramm_mpr&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" />
 </a>
  <a href="https://github.com/rammmpr">
   <img src="https://cardivo.vercel.app/api?name=I%20like%20to%20tinker%20with%20programs&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" />
@@ -28,9 +28,9 @@
 
 - 👼 My name is Rama
 
-- 🗣️ I am 18 years old 
+- 🗣️ I am 19 years old 
 
-- 🔭 I am Junior programmer
+- 🔭 I am Programmer
  
 </p>
 
