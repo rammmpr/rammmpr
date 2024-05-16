@@ -5,15 +5,15 @@
   <p align="center">
     <a href="https://rammmpr.github.io/">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Hoş+Geldiniz+Içinde+Github+Rammmpr"
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Welcome To My Github"
             alt="Rammmpr"
         />
     </a>
 </p>
 <a href="https://github.com/rammmpr"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Pasha%20Rama&description=Haii,%20Nama%20Saya%20Adalah%20Rama%20dan%20Saya%20Hanya%20seorang%20manusia%20biasa.%20Hobi%20Saya%20Adalah%20membaca%20Buku%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramm_mpr&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
-  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Saya%20suka%20mengotak-atik%20program&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=Pasha%20Rama&description=Hii guys,%20My%20Name%20Is%20Rama%20and%20I'am%20only%20a%20human.%20&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ramm_mpr&github=rammmpr&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/rammmpr"><img src="https://cardivo.vercel.app/api?name=I%20like%20coding%20as&&mywife=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
  <p align="center">
 
@@ -23,9 +23,9 @@
 
 - 👼 My name is Rama
 
-- 🗣️ I am 18 years old 
+- 🗣️ I am 19 years old 
 
-- 🔭 I am Junior programmer
+- 🔭 I am programmer
  
 </p>
 
